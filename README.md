@@ -1,4 +1,4 @@
-### 최우성 입니다.
+### 데이터의 활용과 중요성을 석유화학 산업에서 운영관리를 하며 깨달았습니다. IT 기술을 활용한 데이터 분석과 설비 및 운영 분야의 경력을 융합하여 효율을 높이는 엔지니어가 목표입니다.
 
 🛠️ Stacks<br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
