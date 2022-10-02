@@ -1,6 +1,6 @@
 ### 최 우 성 (CHOI WOO SUNG)
 <p>
- 🌱 I’m currently learning ELK!
+🌱 I’m currently learning Spring Boot!
 <br><hr><br>
 
 🛠️ Stacks<br>
