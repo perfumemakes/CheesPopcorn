@@ -7,8 +7,7 @@
 💪🏼 Tools<br>
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>  
  
- ![Gmail Badge]<a href="mailto:perfumemakes@gmail.com" target="_blank">(https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)<br>
- perfumemakes@gmail.com
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:perfumemakes@gmail.com)](mailto:perfumemakes@gmail.com)
 
 <!--
 **perfumemakes/perfumemakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
