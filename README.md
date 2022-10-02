@@ -1,5 +1,7 @@
 ### 최 우 성 (CHOI WOO SUNG)
-<hr><br>
+<p>
+ 🌱 I’m currently learning ELK!
+<br><hr><br>
 
 🛠️ Stacks<br>
 
@@ -7,6 +9,7 @@
 <br><hr><br>
 
 💪🏼 Tools<br>
+
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>  
  <br><hr><br>
  
