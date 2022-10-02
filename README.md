@@ -1,5 +1,5 @@
 ### 최 우 성 (CHOI WOO SUNG)
-<p>
+<p><br>
 🌱 I’m currently learning Spring Boot!
 <br><hr style="border: outset 10px green"><br>
 
