@@ -1,6 +1,10 @@
 ### 최 우 성 (CHOI WOO SUNG)
-<p><br>
-🌱 I’m currently learning Spring Boot!
+<br>
+<p>
+석유화학 산업에서 약 3년간 데이터 관리와 분석 업무를 수행했습니다. 데이터를 활용한 공정 설비 개선 성과를 경험했으며, 더 전문적인 데이터 활용을 위해 IT 분야에 점프인하였습니다.
+<p>
+과학기술정보통신부가 지정한 SW전문인력양성기관인 PLAYDATA에서 6개월 동안 빅데이터 분야 학습을 진행했습니다.
+<p>
 <br><hr style="border: outset 10px green"><br>
 
 🛠️ Stacks<br>
