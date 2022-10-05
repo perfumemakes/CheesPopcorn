@@ -26,6 +26,9 @@
  If you want to contact me, click it.
  
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:perfumemakes@gmail.com)](mailto:perfumemakes@gmail.com)
+ <br><hr><br>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **perfumemakes/perfumemakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
