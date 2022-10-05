@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-### 최 우 성 (CHOI WOO SUNG)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=최우성%20render&fontSize=90)
+
 <br>
 <p>
 소통하는 엔지니어가 되겠습니다. 😊
