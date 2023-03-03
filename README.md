@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&animation=blink&section=header&text=뚜둥%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&animation=blink&section=header&text=최우성입니다.%20&fontSize=90)
 
 <br>
 <p>
