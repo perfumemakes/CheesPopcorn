@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+학습 흐름도
 ![image](https://user-images.githubusercontent.com/84261917/202679049-d488cac1-5fe6-4952-8c97-86a21c5026bf.png)
 
