@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&animation=blink&section=header&text=안녕하십니까.%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&animation=blink&section=header&text=안녕하십니까,최우성입니다.%20&fontSize=45)
 
 <br>
 <p>
 <br>
-Want to be Data Engineer
+I Want to be Data Engineer
 <p>
-Want to be Data Analyst
+I Want to be Data Analyst
 <p>
 
 <br><hr style="border: outset 10px green"><br>
